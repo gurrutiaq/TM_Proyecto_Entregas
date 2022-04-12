@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">CicloDeVida</string>
+    <string name="mostrar">"Mostrar segunda actividad"</string>
+    <string name="mostrar_moneda_string">"Mostrar monedas"</string>
+    <color name="nuevoColor">#C5e2f0</color>
+
+
+    <string name="Dólares">A soles 🇵🇪</string>
+    <string name="Ingrese">Ingrese cantidad a convertir</string>
+    <string name="Euro">A Euro 🇪🇺</string>
+    <string name="Libra">A Libra 🇬🇧</string>
+    <string name="Rupia">A Rupia 🇮🇳</string>
+    <string name="Real">A Real 🇧🇷</string>
+    <string name="Peso">A Peso 🇲🇽</string>
+    <string name="Yuan">A Yuan 🇨🇳</string>
+    <string name="Yen">A Yen 🇯🇵 </string>
+    <string name="Soles">A dólares 🇺🇸</string>
+    <string name="Convertir">Calcular 💵</string>
+    <string name="miClicManejador">miClicManejador</string>
+    <string name="conversi_n_de_monedas_integrado">Conversión de monedas integrado 🇺🇸🇵🇪</string>
+
+</resources>
